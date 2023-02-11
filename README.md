@@ -1,6 +1,6 @@
 ### Hello there, I'm Yu 👋
 
-I'm a student from Venezuela who loves programming and cybersecurity.
+I'm a university student from Venezuela who loves programming and cybersecurity.
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning C#
