@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Yu 👋
 
-<!--
-**Yu-Ishigami/Yu-Ishigami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from Venezuela who loves programming and cybersecurity.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on Python
+- 🤔 I’m looking for help with Anything in particular
+- 💬 Ask me about Anything
+- 📫 How to reach me: [Telegram](t.me/Yu_Ishigami7)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know how to speak Spanish, English and  I'm Japanese
 -->
